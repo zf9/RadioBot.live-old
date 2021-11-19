@@ -1,5 +1,6 @@
 # RadioBot.live
-https://radiobot.live
+https://radiobot.live  
+https://discord.com/invite/dDFgQHam8Y   
 
 npm i ffmpeg-static   
 npm i @discordjs/opus   
