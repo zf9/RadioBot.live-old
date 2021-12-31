@@ -11,10 +11,10 @@ npm i discord.js@v12
 
 
 Source Commands  
-{prefix}help 
-{prefix}leave
+{prefix}help   
+{prefix}leave  
 
-{prefix}playurl <args direct url>
+{prefix}playurl <args direct url>  
   EG: {prefix}playurl https://radiobot.live/Brixton.mp3  
 
 
