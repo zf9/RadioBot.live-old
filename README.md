@@ -18,7 +18,7 @@ Source Commands
   EG: {prefix}playurl https://radiobot.live/Brixton.mp3  
 
 
-{prefix}shutdown <args 1/2>
+{prefix}shutdown <args 1/2>  
   1: process.exit  
   2: client.destroy  
 
