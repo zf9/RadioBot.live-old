@@ -7,6 +7,9 @@ npm i @discordjs/opus
 npm i snekfetch   
 npm i discord.js@v12   
 
+
+
+
 Source Commands  
 {prefix}help 
 {prefix}leave
